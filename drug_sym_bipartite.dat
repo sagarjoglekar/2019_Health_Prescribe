@@ -1,0 +1,1295 @@
+Jaundice	Tetracosactide	0.0193023255814
+Impotence	Avanafil	0.122538860104
+Impotence	Tadalafil	0.101941747573
+Impotence	Vardenafil	0.104662379421
+Impotence	Sildenafil	0.0965034965035
+Impotence	Alprostadil	0.072905027933
+Vomiting	Palonosetron	0.254416961131
+Vomiting	Perphenazine	0.120418848168
+Vomiting	Rolapitant	0.603978300181
+Vomiting	Doxylamine	0.214859437751
+Vomiting	Carbidopa	0.135804701627
+Vomiting	Dolasetron	0.276855895197
+Vomiting	Fosnetupitant	1.0
+Vomiting	Metoclopramide	0.2965
+Vomiting	Lorazepam	0.147204968944
+Vomiting	Hydroxyzine	0.137816979052
+Vomiting	Netupitant	0.190705128205
+Vomiting	Ephedrine	0.121608040201
+Vomiting	Mirtazapine	0.123717948718
+Vomiting	Nabilone	0.17619047619
+Vomiting	Droperidol	0.233568075117
+Vomiting	Granisetron	0.238095238095
+Vomiting	Haloperidol	0.180904522613
+Vomiting	Dexmedetomidine	0.110606060606
+Vomiting	Prochlorperazine	0.281415929204
+Vomiting	Fosaprepitant	0.240909090909
+Vomiting	Dimenhydrinate	0.138701923077
+Vomiting	Ondansetron	0.335877862595
+Vomiting	Chlorpromazine	0.201470588235
+Vomiting	Trimethobenzamide	0.009977827051
+Vomiting	Methotrimeprazine	0.242458100559
+Vomiting	Dronabinol	0.0927565392354
+Vomiting	Promethazine	0.195774647887
+Vomiting	Aprepitant	0.301391035549
+Vomiting	Scopolamine	0.225606469003
+Tremor	Clonazepam	0.134710743802
+Tremor	Topiramate	0.10625
+Tremor	Primidone	0.163265306122
+Tremor	Propranolol	0.1675
+Anxiety	Diazepam	0.273660714286
+Anxiety	Chlordiazepoxide	0.266737513284
+Anxiety	St. John's Wort	0.154385964912
+Anxiety	Perphenazine	0.107019562716
+Anxiety	Imipramine	0.182
+Anxiety	Meprobamate	0.181034482759
+Anxiety	Alprazolam	0.188925081433
+Anxiety	Doxepin	0.124872057318
+Anxiety	Amitriptyline	0.180952380952
+Anxiety	Duloxetine	0.243055555556
+Anxiety	Chlorpromazine	0.175539568345
+Anxiety	Fluoxetine	0.249122807018
+Anxiety	Clonazepam	0.225619834711
+Anxiety	Lorazepam	0.226829268293
+Anxiety	Citalopram	0.337931034483
+Anxiety	Hydroxyzine	0.144781144781
+Anxiety	Bromazepam	0.165420560748
+Anxiety	Buspirone	0.185354691076
+Anxiety	Desipramine	0.117671517672
+Anxiety	Maprotiline	0.0971698113208
+Anxiety	Venlafaxine	0.288965517241
+Anxiety	Mirtazapine	0.309615384615
+Anxiety	Paroxetine	0.316901408451
+Anxiety	Prochlorperazine	0.180952380952
+Anxiety	Acetylsalicylic acid	0.0878542510121
+Anxiety	Oxymorphone	0.0830687830688
+Anxiety	Gabapentin	0.185882352941
+Anxiety	Clomipramine	0.225196850394
+Anxiety	Escitalopram	0.354782608696
+Anxiety	Amoxapine	0.0946869070209
+Anxiety	Sertraline	0.352903225806
+Anxiety	Methotrimeprazine	0.177094972067
+Anxiety	Phenobarbital	0.171942446043
+Anxiety	Oxazepam	0.231611893584
+Anxiety	Quetiapine	0.227127659574
+Anxiety	Trifluoperazine	0.142857142857
+Anxiety	Propranolol	0.218125
+Anxiety	Trazodone	0.193965517241
+Bowel dysfunction	Hyoscyamine	0.000448430493274
+Weight gain	Orlistat	0.129068462402
+Weight gain	Topiramate	0.0440361445783
+Pain in throat	Phenol	0.000105263157895
+Swelling	Ivermectin	0.0261290322581
+Swelling	Triamcinolone	0.0697391304348
+Swelling	Prednisolone	0.126959247649
+Swelling	Prednisone	0.0581730769231
+Swelling	Magaldrate	0.0379746835443
+Swelling	Betamethasone	0.0531210191083
+Swelling	Mannitol	0.0442276422764
+Swelling	Bupivacaine	0.0401416765053
+Swelling	Dexamethasone	0.0810240963855
+Joint pain	Triamcinolone	0.0334259259259
+Joint pain	Carisoprodol	0.00282131661442
+Joint pain	Gabapentin enacarbil	0.00176991150442
+Joint pain	Levomenthol	0.00981132075472
+Joint pain	Zinc acetate	0.00284090909091
+Joint pain	Mefenamic acid	0.0316642120766
+Joint pain	Bromfenac	0.0024861878453
+Joint pain	Naproxen	0.0390532544379
+Joint pain	Phenol	0.0102833158447
+Joint pain	Fluorometholone	0.0111111111111
+Joint pain	Atropine	0.00842519685039
+Joint pain	Fluconazole	0.0147368421053
+Joint pain	Indometacin	0.0212162162162
+Joint pain	Pregabalin	0.0166964285714
+Joint pain	Baclofen	0.01825
+Joint pain	Levetiracetam	0.0123076923077
+Joint pain	Duloxetine	0.0148701298701
+Joint pain	Etodolac	0.0237894736842
+Joint pain	Prednisolone	0.0179421221865
+Joint pain	Prednisone	0.0145631067961
+Joint pain	Amylmetacresol	0.016620498615
+Joint pain	Tenoxicam	0.0323863636364
+Joint pain	Eletriptan	0.00173310225303
+Joint pain	Carbamazepine	0.0127309236948
+Joint pain	Ropivacaine	0.0120582120582
+Joint pain	Trolamine	0.00591715976331
+Joint pain	Tiagabine	0.0089928057554
+Joint pain	Betamethasone	0.0147402597403
+Joint pain	Turpentine	0.00168776371308
+Joint pain	Hydrocodone	0.0048309178744
+Joint pain	Lamotrigine	0.017676056338
+Joint pain	Methyl salicylate	0.0155115511551
+Joint pain	Difluprednate	0.166666666667
+Joint pain	Vigabatrin	0.00874035989717
+Joint pain	Loteprednol etabonate	0.00612870275792
+Joint pain	Ketoprofen	0.0428388746803
+Joint pain	Lacosamide	0.0197802197802
+Joint pain	Zucapsaicin	0.00306278713629
+Joint pain	Hydrocortisone acetate	0.0173170731707
+Joint pain	Oxcarbazepine	0.0121308016878
+Joint pain	Perampanel	0.00455075845974
+Joint pain	Sufentanil	0.00253968253968
+Joint pain	Celecoxib	0.0577981651376
+Joint pain	Choline salicylate	0.0158024691358
+Joint pain	Acetylsalicylic acid	0.0255060728745
+Joint pain	Loteprednol	0.00678851174935
+Joint pain	Phenobarbital	0.0108208955224
+Joint pain	Sumatriptan	0.00726538849647
+Joint pain	Brivaracetam	0.0047619047619
+Joint pain	Gabapentin	0.0197033898305
+Joint pain	Meclofenamic acid	0.00307692307692
+Joint pain	Capsaicin	0.037556561086
+Joint pain	Ibuprofen	0.0343966712899
+Joint pain	Benzyl alcohol	0.0357142857143
+Joint pain	Camphor	0.00981697171381
+Joint pain	Methotrimeprazine	0.00223463687151
+Joint pain	Tramadol	0.0271369294606
+Joint pain	Cyclobenzaprine	0.00194552529183
+Joint pain	Rimexolone	0.0030303030303
+Joint pain	Zonisamide	0.0166866746699
+Joint pain	Diclofenac	0.0356502242152
+Joint pain	(+)-menthol	0.0125
+Joint pain	Eslicarbazepine acetate	0.003125
+Joint pain	Topiramate	0.00980392156863
+Joint pain	Chondroitin sulfate	0.0445652173913
+Joint pain	Benzocaine	0.0137704918033
+Joint pain	Ketorolac	0.016429699842
+Joint pain	Polymyxin B	0.0177685950413
+Joint pain	Nortriptyline	0.00637795275591
+Hypothyroidism	Liothyronine	0.147398843931
+Hypothyroidism	Levothyroxine	0.179279279279
+Kidney stone	Tiopronin	0.0174825174825
+Kidney stone	Citric acid	0.00277410832232
+Kidney stone	Magnesium carbonate	0.000802139037433
+Kidney stone	Hydrochlorothiazide	0.000720720720721
+Kidney stone	Magaldrate	0.010101010101
+Multiple sclerosis	Triamcinolone	0.101587301587
+Multiple sclerosis	Dantrolene	0.170491803279
+Multiple sclerosis	Daclizumab	0.407024793388
+Multiple sclerosis	Natalizumab	0.520547945205
+Multiple sclerosis	Dalfampridine	0.1260815822
+Multiple sclerosis	Dimethyl fumarate	0.484168865435
+Multiple sclerosis	Baclofen	0.222727272727
+Multiple sclerosis	Amantadine	0.164166666667
+Multiple sclerosis	Cladribine	0.310967741935
+Multiple sclerosis	Prednisolone	0.122829581994
+Multiple sclerosis	Prednisone	0.184466019417
+Multiple sclerosis	Ocrelizumab	0.449735449735
+Multiple sclerosis	Interferon beta-1a	0.44367816092
+Multiple sclerosis	Interferon beta-1b	0.515053763441
+Multiple sclerosis	Betamethasone	0.0960784313725
+Multiple sclerosis	Glatiramer	0.496263079223
+Multiple sclerosis	Bupivacaine	0.164691943128
+Multiple sclerosis	Corticotropin	0.111737089202
+Multiple sclerosis	Peginterferon beta-1a	0.353012048193
+Multiple sclerosis	Mitoxantrone	0.217472118959
+Multiple sclerosis	Alemtuzumab	0.50593824228
+Multiple sclerosis	Cannabidiol	0.0813131313131
+Multiple sclerosis	Azathioprine	0.14472361809
+Multiple sclerosis	Fingolimod	0.518686296716
+Multiple sclerosis	Tetracosactide	0.106775700935
+Multiple sclerosis	Modafinil	0.143137254902
+Multiple sclerosis	Methotrexate	0.156674473068
+Multiple sclerosis	Teriflunomide	0.44249201278
+Multiple sclerosis	Siponimod	0.701754385965
+Headache	Etelcalcetide	0.0904929577465
+Headache	Sumatriptan	0.230692076229
+Headache	Flavin mononucleotide	0.571428571429
+Headache	Atenolol	0.11619047619
+Headache	Cyclizine	0.122580645161
+Headache	Pravastatin	0.125598086124
+Headache	Caffeine	0.13125
+Headache	Tizanidine	0.116470588235
+Headache	Ticagrelor	0.0875
+Headache	Rivaroxaban	0.107203389831
+Headache	Naproxen	0.129585798817
+Headache	Botulinum toxin type A	0.222914072229
+Headache	Amitriptyline	0.139830508475
+Headache	Guanfacine	0.106756756757
+Headache	Human Serum Albumin	0.0569620253165
+Headache	Amantadine	0.108130081301
+Headache	Clopidogrel	0.111111111111
+Headache	Zolmitriptan	0.214382632293
+Headache	Apixaban	0.0857142857143
+Headache	Butalbital	0.75
+Headache	Sevelamer	0.088275862069
+Headache	Pipradrol	0.00310559006211
+Headache	Pizotifen	0.165217391304
+Headache	Citric acid	0.065785997358
+Headache	Topiramate	0.16
+Headache	Desirudin	0.0140056022409
+Headache	Venlafaxine	0.128965517241
+Headache	Galcanezumab	0.316814159292
+Headache	Ketorolac	0.106976744186
+Headache	Bivalirudin	0.0633507853403
+Headache	Dihydroergotamine	0.0974477958237
+Headache	Dalteparin	0.0841121495327
+Headache	Enoxaparin	0.0776377952756
+Headache	Ketoprofen	0.0796437659033
+Headache	Nadolol	0.118395303327
+Headache	Almotriptan	0.177924217463
+Headache	Cyproheptadine	0.0948216340621
+Headache	Magnesium citrate	0.160073260073
+Headache	Nadroparin	0.666666666667
+Headache	Choline salicylate	0.109156626506
+Headache	Acetylsalicylic acid	0.175708502024
+Headache	Dabigatran etexilate	0.0772578890098
+Headache	Metoprolol	0.11568627451
+Headache	Eptifibatide	0.0674418604651
+Headache	Eletriptan	0.179130434783
+Headache	Mirtazapine	0.113461538462
+Headache	Ergotamine	0.20716112532
+Headache	Metoclopramide	0.15625
+Headache	Riboflavin	0.0478095238095
+Headache	Candesartan cilexetil	0.265835929387
+Headache	Valproic Acid	0.129702970297
+Headache	Verapamil	0.2078125
+Headache	Dichloralphenazone	0.833333333333
+Headache	Nicardipine	0.151653543307
+Headache	Diclofenac	0.114798206278
+Headache	Timolol	0.10162601626
+Headache	Modafinil	0.149019607843
+Headache	Ibuprofen	0.223903177005
+Headache	Lisinopril	0.11811023622
+Headache	Propranolol	0.154375
+Headache	Ubidecarenone	0.0521186440678
+Backache	Diazepam	0.00264462809917
+Backache	Carisoprodol	0.00156739811912
+Backache	Ticagrelor	0.00047619047619
+Backache	Acetylsalicylic acid	0.00322580645161
+Backache	Pravastatin	0.000357142857143
+Backache	Rivaroxaban	0.00451882845188
+Backache	Naproxen	0.00781065088757
+Backache	Metronidazole	0.0028855721393
+Backache	Tetanus Immune Globulin	0.166666666667
+Backache	Chlorzoxazone	0.0078125
+Backache	Clopidogrel	0.00776859504132
+Backache	Tenoxicam	0.00170454545455
+Backache	Apixaban	0.000432432432432
+Backache	Human Serum Albumin	0.00210970464135
+Backache	Lorazepam	0.0041134751773
+Backache	Sevelamer	0.00051724137931
+Backache	Orphenadrine	0.000618811881188
+Backache	Turpentine	0.00042194092827
+Backache	Bivalirudin	0.000523560209424
+Backache	Chlorphenesin	0.166666666667
+Backache	Dalteparin	0.00478971962617
+Backache	Enoxaparin	0.00142857142857
+Backache	Trolamine	0.0042194092827
+Backache	Benzylpenicillin	0.000897435897436
+Backache	Metaxalone	0.00188679245283
+Backache	Methocarbamol	0.00132743362832
+Backache	Nadroparin	0.222222222222
+Backache	Camphor	0.000932835820896
+Backache	Baclofen	0.00647058823529
+Backache	Dabigatran etexilate	0.000110741971207
+Backache	Eptifibatide	0.00077519379845
+Backache	St. John's Wort	0.00243243243243
+Backache	Chlorpromazine	0.00147058823529
+Backache	Capsaicin	0.00606407322654
+Backache	Nicardipine	0.000944881889764
+Backache	(+)-menthol	0.0051724137931
+Backache	Dipyridamole	0.00144144144144
+Backache	Chondroitin sulfate	0.00174418604651
+Backache	Acenocoumarol	0.000413223140496
+Itching	Hydrocortisone valerate	0.25
+Itching	Acetylsalicylic acid	0.0984126984127
+Itching	Crotamiton	0.167741935484
+Itching	Mefenamic acid	0.0568767908309
+Itching	Cholestyramine	0.144202898551
+Itching	Amcinonide	0.00883652430044
+Itching	Tolmetin	0.00413223140496
+Itching	Diflunisal	0.00608695652174
+Itching	Doxepin	0.0304081632653
+Itching	Naproxen	0.027573964497
+Itching	Phenol	0.0330188679245
+Itching	Acetaminophen	0.0320063694268
+Itching	Oxandrolone	0.0248648648649
+Itching	Fluconazole	0.0589473684211
+Itching	Sodium bicarbonate	0.0269343065693
+Itching	Baclofen	0.0461666666667
+Itching	Chlorphenamine	0.116935483871
+Itching	Nedocromil	0.0672768878719
+Itching	Dextropropoxyphene	0.0627516778523
+Itching	Ulobetasol	0.00610687022901
+Itching	Medroxyprogesterone acetate	0.0333333333333
+Itching	Fenoprofen	0.00215053763441
+Itching	Clioquinol	0.0585635359116
+Itching	Amylmetacresol	0.00831024930748
+Itching	Tenoxicam	0.0127840909091
+Itching	Dienogest	0.0227488151659
+Itching	Hydroxyzine	0.0779395296753
+Itching	Leuprolide	0.0116009280742
+Itching	Carbamazepine	0.0269372693727
+Itching	Nepafenac	0.0115727002967
+Itching	Hydromorphone	0.0323995127893
+Itching	Hydrocodone	0.0048309178744
+Itching	Cyclobenzaprine	0.0015503875969
+Itching	Diclofenac	0.0362139917695
+Itching	Benzyl alcohol	0.0464285714286
+Itching	Butorphanol	0.00271186440678
+Itching	Sarracenia Purpurea	0.25
+Itching	Methyl salicylate	0.0335616438356
+Itching	Ranitidine	0.0328472222222
+Itching	Dextromethorphan	0.0234604105572
+Itching	Ketoprofen	0.0260330578512
+Itching	Mometasone furoate	0.0816115702479
+Itching	Metaxalone	0.00470588235294
+Itching	Hydrocortisone acetate	0.0264392324094
+Itching	Meclofenamic acid	0.0030534351145
+Itching	Choline salicylate	0.0384987893462
+Itching	Methadone	0.0251046025105
+Itching	Rupatadine	0.0380462724936
+Itching	Levomenthol	0.0252918287938
+Itching	Chlorzoxazone	0.0075329566855
+Itching	Alimemazine	0.0373860182371
+Itching	Codeine	0.0387543252595
+Itching	Pramocaine	0.00376344086022
+Itching	Fluocinonide	0.0374213836478
+Itching	Acrivastine	0.0742203742204
+Itching	Clofedanol	1.0
+Itching	Naloxone	0.0448066298343
+Itching	Cinchocaine	0.0650273224044
+Itching	Nortriptyline	0.0360317460317
+Itching	Benzonatate	0.571428571429
+Itching	Loratadine	0.0953027139875
+Itching	Zinc acetate	0.0313291139241
+Itching	Microcrystalline cellulose	0.0151975683891
+Itching	Ibuprofen	0.046234939759
+Itching	Promethazine	0.043006993007
+Itching	Benzocaine	0.0895765472313
+Itching	Ketorolac	0.0505529225908
+Itching	Pentazocine	0.0294029850746
+Itching	Dyclonine	0.333333333333
+Itching	Bepotastine	0.714285714286
+Insomnia	Trimipramine	0.132696390658
+Insomnia	Flurazepam	0.191489361702
+Insomnia	St. John's Wort	0.0898305084746
+Insomnia	Triazolam	0.270202020202
+Insomnia	Zolpidem	0.293518518519
+Insomnia	Ramelteon	0.451844262295
+Insomnia	Doxylamine	0.0903614457831
+Insomnia	Eszopiclone	0.283913043478
+Insomnia	Amitriptyline	0.105957446809
+Insomnia	Lorazepam	0.161224489796
+Insomnia	Desipramine	0.120997920998
+Insomnia	Quazepam	0.00616438356164
+Insomnia	Zaleplon	0.322660098522
+Insomnia	Zopiclone	0.301801801802
+Insomnia	Secobarbital	0.227049180328
+Insomnia	Butabarbital	0.7
+Insomnia	Estazolam	0.00596026490066
+Insomnia	Belladonna	0.0357737104825
+Insomnia	Temazepam	0.209523809524
+Insomnia	Mirtazapine	0.139102564103
+Insomnia	Nitrazepam	0.25681492109
+Insomnia	Pentobarbital	0.185757575758
+Insomnia	Tizanidine	0.138847858198
+Insomnia	Phenobarbital	0.105109489051
+Insomnia	Doxepin	0.113496932515
+Insomnia	Melatonin	0.208108108108
+Insomnia	Trazodone	0.130172413793
+Insomnia	Diphenhydramine	0.141374837873
+Insomnia	Suvorexant	0.329530201342
+Chronic pain	Etelcalcetide	0.0611307420495
+Chronic pain	Fentanyl	0.11125
+Chronic pain	Pravastatin	0.0476758045292
+Chronic pain	Dabigatran etexilate	0.0492801771872
+Chronic pain	Empagliflozin	0.0648873072361
+Chronic pain	Morphine	0.104533333333
+Chronic pain	Reteplase	0.0243506493506
+Chronic pain	Human Serum Albumin	0.00844594594595
+Chronic pain	Rosuvastatin	0.0518140589569
+Chronic pain	Fluvastatin	0.0360146252285
+Chronic pain	Clopidogrel	0.0440329218107
+Chronic pain	Tapentadol	0.169724770642
+Chronic pain	Apixaban	0.0595
+Chronic pain	Methylnaltrexone	0.0972789115646
+Chronic pain	Butalbital	0.5
+Chronic pain	Sevelamer	0.09171875
+Chronic pain	Phenoxymethylpenicillin	0.0378415300546
+Chronic pain	Desipramine	0.0359667359667
+Chronic pain	Bivalirudin	0.0716666666667
+Chronic pain	Desirudin	0.0173913043478
+Chronic pain	Amphetamine	0.0329357798165
+Chronic pain	Ticagrelor	0.0565625
+Chronic pain	Droperidol	0.0791079812207
+Chronic pain	Dalteparin	0.0387249114522
+Chronic pain	Enoxaparin	0.0746218487395
+Chronic pain	Ziconotide	0.229104477612
+Chronic pain	Cangrelor	0.0788381742739
+Chronic pain	Nadroparin	0.555555555556
+Chronic pain	Heparin	0.0384615384615
+Chronic pain	Acetylsalicylic acid	0.0615384615385
+Chronic pain	Acenocoumarol	0.031163434903
+Chronic pain	Rivaroxaban	0.0514893617021
+Chronic pain	Eptifibatide	0.0660621761658
+Chronic pain	Mirtazapine	0.0619230769231
+Chronic pain	Nortriptyline	0.107936507937
+Chronic pain	Canagliflozin	0.0636258660508
+Chronic pain	Valsartan	0.0698347107438
+Chronic pain	Dichloralphenazone	0.666666666667
+Chronic pain	Nicardipine	0.0331230283912
+Chronic pain	Oxycodone	0.136464088398
+Chronic pain	Dipyridamole	0.0466666666667
+Chronic pain	Atorvastatin	0.0566923076923
+Chronic pain	Abciximab	0.046887966805
+Chronic pain	Propranolol	0.0461875
+Indigestion	Rabeprazole	0.189141856392
+Indigestion	Magnesium oxide	0.0963636363636
+Indigestion	Esomeprazole	0.138603696099
+Indigestion	Omeprazole	0.142168674699
+Indigestion	Sodium citrate	0.116929698709
+Indigestion	Magnesium carbonate	0.186363636364
+Indigestion	Magnesium hydroxide	0.193967517401
+Indigestion	Bismuth subsalicylate	0.155357142857
+Indigestion	Magaldrate	0.0505050505051
+Indigestion	Sodium bicarbonate	0.0931818181818
+Indigestion	Citric acid	0.034214002642
+Indigestion	Calcium Carbonate	0.0933884297521
+Indigestion	Famotidine	0.145785440613
+Indigestion	Ranitidine	0.149315068493
+Indigestion	Dexlansoprazole	0.408163265306
+Indigestion	Almasilate	0.625
+Indigestion	Magnesium trisilicate	0.248812664908
+Indigestion	Aluminum hydroxide	0.0454545454545
+Indigestion	Cimetidine	0.122613065327
+Indigestion	Sucralfate	0.1259762309
+Edema	Triamcinolone	0.0311304347826
+Edema	Ranibizumab	0.0558928571429
+Edema	Tranexamic acid	0.0128333333333
+Edema	Acetazolamide	0.0435006435006
+Edema	Sodium chloride	0.0110424710425
+Edema	Aflibercept	0.0680158730159
+Edema	Ecallantide	0.0292887029289
+Edema	Bumetanide	0.00109140518417
+Edema	Clemastine	0.00106951871658
+Edema	Prednisolone	0.012540192926
+Edema	Prednisone	0.0401941747573
+Edema	Human C1-esterase inhibitor	0.046875
+Edema	Torasemide	0.0032154340836
+Edema	Diphenhydramine	0.0407079646018
+Edema	Chlorothiazide	0.0283333333333
+Edema	Danazol	0.0239159001314
+Edema	Oxymorphone	0.00315789473684
+Edema	Betamethasone	0.0111842105263
+Edema	Triamterene	0.00208333333333
+Edema	Carbinoxamine	0.006038647343
+Edema	Bupivacaine	0.0172018348624
+Edema	Ketorolac	0.0249607535322
+Edema	Metolazone	0.0145374449339
+Edema	Nifedipine	0.0248484848485
+Edema	Methyclothiazide	0.444444444444
+Edema	Conestat alfa	0.00181818181818
+Edema	Icatibant	0.0133484162896
+Edema	Hydrochlorothiazide	0.0171551724138
+Edema	Fluocinolone acetonide	0.0418604651163
+Edema	Mannitol	0.0263636363636
+Edema	Spironolactone	0.0252419354839
+Edema	Furosemide	0.037
+Edema	Epinephrine	0.02728
+Edema	Etacrynic acid	0.0298507462687
+Edema	Lanadelumab	0.00714285714286
+Edema	Promethazine	0.000592105263158
+Edema	Dexamethasone	0.0267318435754
+Weight loss	Dronabinol	0.0219801980198
+Weight loss	Ursodeoxycholic acid	0.0924187725632
+Weight loss	Orlistat	0.280641466208
+Dry skin	Triamcinolone	0.0278070175439
+Dry skin	Tretinoin	0.0708542713568
+Dry skin	Avobenzone	0.0176211453744
+Dry skin	Adenosine	0.0114084507042
+Dry skin	Benzoyl peroxide	0.1125
+Dry skin	Sodium chloride	0.0286037735849
+Dry skin	Oxybenzone	0.0126050420168
+Dry skin	Fluconazole	0.044962406015
+Dry skin	Sodium bicarbonate	0.0333576642336
+Dry skin	Octinoxate	0.00709219858156
+Dry skin	Linoleic acid	0.0165680473373
+Dry skin	Dextran	0.0440677966102
+Dry skin	Prednisone	0.00961165048544
+Dry skin	Glycerin	0.068058968059
+Dry skin	Diltiazem	0.0336923076923
+Dry skin	Diphenhydramine	0.0158878504673
+Dry skin	Lactic acid	0.0630098452883
+Dry skin	Titanium dioxide	0.0426523297491
+Dry skin	Sennosides	0.0136585365854
+Dry skin	Polyethylene glycol	0.0261637239165
+Dry skin	Azelaic acid	0.104225352113
+Dry skin	Zinc acetate	0.0390934844193
+Dry skin	Peanut oil	0.067868852459
+Dry skin	Kaolin	0.026102292769
+Dry skin	Palmitic Acid	0.00778816199377
+Dry skin	Sorbitol	0.00776081424936
+Dry skin	Adapalene	0.0888015717092
+Dry skin	Tetryzoline	0.00157480314961
+Dry skin	Silver	5.61206896552e-05
+Dry skin	Clioquinol	0.0598526703499
+Dry skin	Propafenone	0.0412520064205
+Dry skin	Propylene glycol	0.101366120219
+Dry skin	Zinc oxide	0.0775401069519
+Dry skin	Clindamycin	0.0384827586207
+Dry skin	Bisacodyl	0.0726829268293
+Dry skin	Hydrocortisone acetate	0.0568019093079
+Dry skin	Magnesium sulfate	0.0288428324698
+Dry skin	Spironolactone	0.0306299212598
+Dry skin	Camphor	0.0196339434276
+Dry skin	Pyridostigmine	0.0571725571726
+Dry skin	Salicylic acid	0.0687387387387
+Dry skin	Dapsone	0.0474747474747
+Dry skin	Benzocaine	0.0570512820513
+Dry skin	Docusate	0.0534985422741
+Dry skin	Magnesium hydroxide	0.0477958236659
+Dry skin	Sulfacetamide	0.0175131348511
+Dry skin	Flutamide	0.043654822335
+Dry skin	Diethyltoluamide	0.0038240917782
+Dry skin	Cinchocaine	0.0459459459459
+Dry skin	Drospirenone	0.0264416315049
+Dry skin	Hydroquinone	0.0788571428571
+Dry skin	Pramocaine	0.00483870967742
+Dry skin	Chloramphenicol	0.0461290322581
+Dry skin	Lactulose	0.0542682926829
+Dry skin	Verapamil	0.027734375
+Dry skin	Phenylephrine	0.0235294117647
+Dry skin	Hydrocortisone succinate	0.0172413793103
+Dry skin	Lubiprostone	0.0390596745027
+Dry skin	Zinc	0.0198233995585
+Dry skin	Panthenol	0.0168539325843
+Dry skin	Octocrylene	0.142857142857
+Dry skin	Methylcellulose	0.0581333333333
+Dry skin	Aluminum hydroxide	0.00909090909091
+Dry skin	Glycolic acid	0.016501650165
+Dry skin	Erythromycin	0.0394736842105
+Muscle pain	Triamcinolone	0.00701754385965
+Muscle pain	Sumatriptan	0.00585858585859
+Muscle pain	Acetylsalicylic acid	0.0153846153846
+Muscle pain	St. John's Wort	0.0115044247788
+Muscle pain	Mefenamic acid	0.00618556701031
+Muscle pain	Tolmetin	0.0031007751938
+Muscle pain	Bromfenac	0.00137362637363
+Muscle pain	Oxaprozin	0.5
+Muscle pain	Mestranol	0.000552486187845
+Muscle pain	Meloxicam	0.00176125244618
+Muscle pain	Infliximab	0.00559241706161
+Muscle pain	Tiaprofenic acid	0.00208955223881
+Muscle pain	Naproxen	0.0156613756614
+Muscle pain	Piroxicam	0.0231611893584
+Muscle pain	Baclofen	0.0126363636364
+Muscle pain	Indometacin	0.00818553888131
+Muscle pain	Etodolac	0.0018779342723
+Muscle pain	Prednisolone	0.0123794212219
+Muscle pain	Prednisone	0.0078640776699
+Muscle pain	Norgestimate	0.00233160621762
+Muscle pain	Tenoxicam	0.00255681818182
+Muscle pain	Nabumetone	0.00545454545455
+Muscle pain	Flurbiprofen	0.0095087163233
+Muscle pain	Methyl nicotinate	0.0217391304348
+Muscle pain	Celecoxib	0.0103448275862
+Muscle pain	Ethinylestradiol	0.0058940397351
+Muscle pain	Methyl salicylate	0.0101910828025
+Muscle pain	Benzyl alcohol	0.00614035087719
+Muscle pain	Bupivacaine	0.00774566473988
+Muscle pain	Betamethasone	0.00873333333333
+Muscle pain	Corticotropin	0.0159836065574
+Muscle pain	Ranitidine	0.00902777777778
+Muscle pain	Trolamine	0.0252525252525
+Muscle pain	Ketoprofen	0.0226342710997
+Muscle pain	Zucapsaicin	0.00612557427259
+Muscle pain	Norgestrel	0.00108991825613
+Muscle pain	Diflunisal	0.00434782608696
+Muscle pain	Secukinumab	0.00119189511323
+Muscle pain	Meclofenamic acid	0.00347826086957
+Muscle pain	Oxandrolone	0.00432432432432
+Muscle pain	Levomenthol	0.00339622641509
+Muscle pain	Fenoprofen	0.00176991150442
+Muscle pain	Methocarbamol	0.00215827338129
+Muscle pain	Eletriptan	0.00113636363636
+Muscle pain	Dexamethasone	0.00672268907563
+Muscle pain	Duloxetine	0.0109722222222
+Muscle pain	Cortisone acetate	0.00101214574899
+Muscle pain	(+)-menthol	0.0163492063492
+Muscle pain	Sulindac	0.00514541387025
+Muscle pain	Capsaicin	0.0195253505933
+Muscle pain	Ibuprofen	0.0180722891566
+Muscle pain	Drospirenone	0.00314842578711
+Muscle pain	Camphor	0.0177902621723
+Muscle pain	Methylprednisolone	0.00888888888889
+Muscle pain	Turpentine	0.00168776371308
+Muscle pain	Hydrocortisone	0.00624561403509
+Muscle pain	Diclofenac	0.0194470046083
+Muscle pain	Ketorolac	0.0181259600614
+Muscle pain	Etanercept	0.00573333333333
+Muscle pain	Chondroitin sulfate	0.00348837209302
+Muscle pain	Tetracosactide	0.00613810741688
+Muscle pain	Nortriptyline	0.0119841269841
+Muscle pain	Sodium aurothiomalate	0.0164490861619
+Syncope	Ephedrine	0.0185185185185
+Syncope	Hyoscyamine	0.00225225225225
+Syncope	Glycopyrronium	0.00779874213836
+Syncope	Epinephrine	0.07712
+Syncope	Pyridostigmine	0.0290526315789
+Irritable bowel syndrome	Dicyclomine	0.0822580645161
+Irritable bowel syndrome	Hyoscyamine	0.00301724137931
+Irritable bowel syndrome	Pinaverium	0.00625
+Irritable bowel syndrome	Paroxetine	0.0548366013072
+Irritable bowel syndrome	Tegaserod	0.0966346153846
+Irritable bowel syndrome	Nortriptyline	0.0594890510949
+Irritable bowel syndrome	Desipramine	0.015734989648
+Irritable bowel syndrome	Clidinium	0.0042872454448
+Irritable bowel syndrome	Lubiprostone	0.236036036036
+Irritable bowel syndrome	Eluxadoline	0.323008849558
+Irritable bowel syndrome	Alosetron	0.0715053763441
+Irritable bowel syndrome	Amitriptyline	0.0581589958159
+Irritable bowel syndrome	Linaclotide	0.300191204589
+Irritable bowel syndrome	Trimebutine	0.75
+Irritable bowel syndrome	Rifaximin	0.121052631579
+Diarrhea	Rabeprazole	0.0199649737303
+Diarrhea	Ciprofloxacin	0.0259330143541
+Diarrhea	Sodium phosphate, monobasic	0.0285714285714
+Diarrhea	Magnesium oxide	0.0020618556701
+Diarrhea	Sulfamethoxazole	0.0803149606299
+Diarrhea	Crofelemer	0.857142857143
+Diarrhea	Lansoprazole	0.0301904761905
+Diarrhea	Trimethoprim	0.0251552795031
+Diarrhea	Levofloxacin	0.0225480283114
+Diarrhea	Rifamycin	0.161616161616
+Diarrhea	Telotristat ethyl	0.0248756218905
+Diarrhea	Pantoprazole	0.0164238410596
+Diarrhea	Omeprazole	0.0218674698795
+Diarrhea	Metronidazole	0.0316842105263
+Diarrhea	Sodium bicarbonate	0.0166923076923
+Diarrhea	Sodium citrate	0.00836879432624
+Diarrhea	Rifaximin	0.0532919254658
+Diarrhea	Magnesium carbonate	0.0024064171123
+Diarrhea	Magnesium hydroxide	0.00204545454545
+Diarrhea	Bismuth subsalicylate	0.0892857142857
+Diarrhea	Diphenoxylate	0.00441176470588
+Diarrhea	Fidaxomicin	0.0495462794918
+Diarrhea	Magaldrate	0.0506329113924
+Diarrhea	Bismuth subcitrate potassium	0.222222222222
+Diarrhea	Tetracycline	0.0403455284553
+Diarrhea	Citric acid	0.0159459459459
+Diarrhea	Nizatidine	0.00151187904968
+Diarrhea	Calcium Carbonate	0.0101785714286
+Diarrhea	Fructose	0.0384615384615
+Diarrhea	Simethicone	0.0199501246883
+Diarrhea	Famotidine	0.00180360721443
+Diarrhea	Ofloxacin	0.021536351166
+Diarrhea	Alosetron	0.00489130434783
+Diarrhea	Ranitidine	0.011301369863
+Diarrhea	Norfloxacin	0.0354838709677
+Diarrhea	Dexlansoprazole	0.0142857142857
+Diarrhea	Nitazoxanide	0.00442477876106
+Diarrhea	Sucralfate	0.0017094017094
+Diarrhea	Doxylamine	0.00132325141777
+Diarrhea	Almasilate	0.5
+Diarrhea	Azithromycin	0.0296946564885
+Diarrhea	Octreotide	0.0238888888889
+Diarrhea	Magnesium trisilicate	0.0023746701847
+Diarrhea	Clonidine	0.0215540540541
+Diarrhea	Trimethobenzamide	0.00774336283186
+Diarrhea	Vancomycin	0.0301530612245
+Diarrhea	Aluminum hydroxide	0.0545454545455
+Diarrhea	Difenoxin	0.666666666667
+Diarrhea	Eluxadoline	0.0978922716628
+Diarrhea	Cimetidine	0.0169338677355
+Diarrhea	Loperamide	0.0563829787234
+Diarrhea	Esomeprazole	0.0159465020576
+Diarrhea	Pancrelipase	0.0574712643678
+Reduced mobility	Apomorphine	0.00089485458613
+Foot pain	Sodium chloride	0.000187969924812
+Foot pain	Naproxen	0.000507614213198
+Foot pain	Doxylamine	0.000401606425703
+Foot pain	Clemastine	0.000177619893428
+Foot pain	Disopyramide	0.000451807228916
+Foot pain	Medroxyprogesterone acetate	0.000395256916996
+Foot pain	Fenoprofen	0.000295857988166
+Foot pain	Tenoxicam	0.000284090909091
+Foot pain	Titanium dioxide	0.000358422939068
+Foot pain	Carbamazepine	0.00142335766423
+Foot pain	Nepafenac	0.000634920634921
+Foot pain	Benzyl alcohol	0.00267857142857
+Foot pain	Ketoprofen	0.000776196636481
+Foot pain	Methocarbamol	0.000223713646532
+Foot pain	Brompheniramine	0.000332225913621
+Foot pain	Chondroitin sulfate	0.00174418604651
+Foot pain	Hydromorphone	0.000243605359318
+Foot pain	Mefenamic acid	0.000736377025037
+Foot pain	Acetaminophen	0.00113636363636
+Foot pain	Fluconazole	0.000375939849624
+Foot pain	Pregabalin	0.00263392857143
+Foot pain	Dextropropoxyphene	0.00066889632107
+Foot pain	Turpentine	0.000395256916996
+Foot pain	Collagenase clostridium histolyticum	0.00613333333333
+Foot pain	Ranolazine	0.000434153400868
+Foot pain	Trolamine	0.0062893081761
+Foot pain	Dextromethorphan	0.000147492625369
+Foot pain	Hydrocortisone acetate	0.000235294117647
+Foot pain	Methadone	0.000666666666667
+Foot pain	Alimemazine	0.000150829562594
+Foot pain	Gabapentin	0.00289915966387
+Foot pain	Amikacin	0.000383631713555
+Foot pain	Nortriptyline	0.000378787878788
+Foot pain	Diclofenac	0.00104761904762
+Foot pain	St. John's Wort	0.00016393442623
+Foot pain	Oxandrolone	0.000531914893617
+Foot pain	Phenol	0.000209863588667
+Foot pain	Sodium bicarbonate	0.000214285714286
+Foot pain	Baclofen	0.000423728813559
+Foot pain	Chlorphenamine	0.000381679389313
+Foot pain	Diphenhydramine	0.00012836970475
+Foot pain	Desipramine	0.0004158004158
+Foot pain	Capsaicin	0.00169491525424
+Foot pain	(+)-menthol	0.000294117647059
+Foot pain	Zinc	0.000176211453744
+Foot pain	Ibuprofen	0.00692771084337
+Foot pain	Triamcinolone	0.000695652173913
+Foot pain	Lidocaine	0.0023137254902
+Foot pain	Methyl salicylate	0.000343642611684
+Foot pain	Ranitidine	0.000206896551724
+Foot pain	Zinc oxide	0.000346620450607
+Foot pain	Acetylsalicylic acid	0.00080971659919
+Foot pain	Codeine	0.00108013937282
+Foot pain	Acebutolol	0.000213219616205
+Foot pain	Levomenthol	0.000389105058366
+Foot pain	Clonidine	0.00025
+Foot pain	Quinidine	0.00051724137931
+Foot pain	Cyclobenzaprine	0.00193798449612
+Foot pain	Promethazine	0.00027972027972
+Foot pain	Diflunisal	0.00173913043478
+Pain	Aminohippuric acid	0.5
+Pain	Oxandrolone	0.458378378378
+Pain	Mefenamic acid	0.655375552283
+Pain	Methotrimeprazine	0.264245810056
+Pain	Naltrexone	0.582142857143
+Pain	Fentanyl	0.666666666667
+Pain	Tolmetin	0.326356589147
+Pain	Caffeine	0.46875
+Pain	Bromfenac	0.671732522796
+Pain	Carisoprodol	0.244200626959
+Pain	Sufentanil	0.501618122977
+Pain	Nalbuphine	0.469168900804
+Pain	Acetaminophen	0.613636363636
+Pain	Indometacin	0.667119565217
+Pain	Samarium (153Sm) lexidronam	0.75
+Pain	Baclofen	0.626890756303
+Pain	(S)-camphor	0.333333333333
+Pain	Ranitidine	0.552083333333
+Pain	Methadone	0.5875
+Pain	Nepafenac	0.777777777778
+Pain	Medroxyprogesterone acetate	0.447902571042
+Pain	Fenoprofen	0.687315634218
+Pain	Diflunisal	0.448695652174
+Pain	Tapentadol	0.510169491525
+Pain	Tenoxicam	0.713068181818
+Pain	Dienogest	0.448616600791
+Pain	Pentazocine	0.568656716418
+Pain	Leuprolide	0.248188405797
+Pain	Carbamazepine	0.512915129151
+Pain	Ropivacaine	0.764344262295
+Pain	Desipramine	0.18316008316
+Pain	Oxymorphone	0.334210526316
+Pain	Celecoxib	0.5875
+Pain	Turpentine	0.152631578947
+Pain	Methoxyflurane	0.685628742515
+Pain	Buprenorphine	0.625
+Pain	Mirtazapine	0.484615384615
+Pain	Amphetamine	0.219266055046
+Pain	Butorphanol	0.195221843003
+Pain	Strontium chloride Sr-89	0.5
+Pain	Methyl salicylate	0.784053156146
+Pain	Hyoscyamine	0.135627530364
+Pain	Morphine	0.630922693267
+Pain	Levorphanol	0.182585751979
+Pain	Loteprednol etabonate	0.27652173913
+Pain	Ketoprofen	0.640664961637
+Pain	Ziconotide	0.682089552239
+Pain	Zucapsaicin	0.00918836140888
+Pain	Metaxalone	0.208235294118
+Pain	Dihydrocodeine	0.630708661417
+Pain	Etodolac	0.582677165354
+Pain	Cannabidiol	0.389108910891
+Pain	Acetylsalicylic acid	0.554655870445
+Pain	Levomenthol	0.732558139535
+Pain	Naloxone	0.618279569892
+Pain	Chlorzoxazone	0.629001883239
+Pain	Codeine	0.697183098592
+Pain	Ethynodiol diacetate	0.702380952381
+Pain	Gabapentin	0.690677966102
+Pain	Meperidine	0.259818731118
+Pain	(+)-menthol	0.36015037594
+Pain	Meclofenamic acid	0.00461538461538
+Pain	Capsaicin	0.652714932127
+Pain	Ibuprofen	0.742469879518
+Pain	Benzyl alcohol	0.299107142857
+Pain	Flurbiprofen	0.577272727273
+Pain	Choline magnesium trisalicylate	1.0
+Pain	Parecoxib	0.652083333333
+Pain	Chloral hydrate	0.557894736842
+Pain	Tramadol	0.580392156863
+Pain	Cyclobenzaprine	0.303100775194
+Pain	Dextropropoxyphene	0.424124513619
+Pain	Hydrocodone	0.502415458937
+Pain	Diclofenac	0.714285714286
+Pain	Sarracenia Purpurea	0.5
+Pain	Oxycodone	0.75138121547
+Pain	Promethazine	0.414788732394
+Pain	Hydromorphone	0.701219512195
+Pain	Ketorolac	0.696682464455
+Pain	Denosumab	0.736363636364
+Pain	Nortriptyline	0.580158730159
+Pain	Naproxen	0.721893491124
+Rheumatoid arthritis	Triamcinolone	0.154385964912
+Rheumatoid arthritis	Prednisolone	0.203536977492
+Rheumatoid arthritis	Tolmetin	0.00538461538462
+Rheumatoid arthritis	Oxaprozin	0.625
+Rheumatoid arthritis	Meloxicam	0.20939334638
+Rheumatoid arthritis	Infliximab	0.472985781991
+Rheumatoid arthritis	Indometacin	0.224795640327
+Rheumatoid arthritis	Piroxicam	0.175149700599
+Rheumatoid arthritis	Nabumetone	0.170281124498
+Rheumatoid arthritis	Linoleic acid	0.112941176471
+Rheumatoid arthritis	Chloroquine	0.179839633448
+Rheumatoid arthritis	Penicillamine	0.260428410372
+Rheumatoid arthritis	Fenoprofen	0.132448377581
+Rheumatoid arthritis	Prednisone	0.277669902913
+Rheumatoid arthritis	Choline magnesium trisalicylate	0.5
+Rheumatoid arthritis	Leflunomide	0.346153846154
+Rheumatoid arthritis	Ciclosporin	0.227678571429
+Rheumatoid arthritis	Auranofin	0.631004366812
+Rheumatoid arthritis	Flurbiprofen	0.163636363636
+Rheumatoid arthritis	Adalimumab	0.461538461538
+Rheumatoid arthritis	Betamethasone	0.130201342282
+Rheumatoid arthritis	Naproxen	0.252662721893
+Rheumatoid arthritis	Rituximab	0.384232365145
+Rheumatoid arthritis	Tenoxicam	0.157790368272
+Rheumatoid arthritis	Hydroxychloroquine	0.34380952381
+Rheumatoid arthritis	Bupivacaine	0.164179104478
+Rheumatoid arthritis	Dexamethasone	0.196918767507
+Rheumatoid arthritis	Corticotropin	0.134433962264
+Rheumatoid arthritis	Abatacept	0.553571428571
+Rheumatoid arthritis	Ranitidine	0.0903448275862
+Rheumatoid arthritis	Ketoprofen	0.239847715736
+Rheumatoid arthritis	Sulfasalazine	0.296610169492
+Rheumatoid arthritis	Hydrocortisone acetate	0.140722891566
+Rheumatoid arthritis	Tacrolimus	0.186829268293
+Rheumatoid arthritis	Secukinumab	0.45325443787
+Rheumatoid arthritis	Sulindac	0.158767772512
+Rheumatoid arthritis	Acetylsalicylic acid	0.187096774194
+Rheumatoid arthritis	Anakinra	0.335494327391
+Rheumatoid arthritis	Tiaprofenic acid	0.173511904762
+Rheumatoid arthritis	Tofacitinib	0.529182879377
+Rheumatoid arthritis	Certolizumab pegol	0.544871794872
+Rheumatoid arthritis	Diflunisal	0.174782608696
+Rheumatoid arthritis	Cortisone acetate	0.128542510121
+Rheumatoid arthritis	Azathioprine	0.255778894472
+Rheumatoid arthritis	Meclofenamic acid	0.00333333333333
+Rheumatoid arthritis	Ibuprofen	0.127108433735
+Rheumatoid arthritis	Sarilumab	0.643835616438
+Rheumatoid arthritis	Methylprednisolone	0.214705882353
+Rheumatoid arthritis	Celecoxib	0.251376146789
+Rheumatoid arthritis	Golimumab	0.48
+Rheumatoid arthritis	Hydrocortisone	0.153333333333
+Rheumatoid arthritis	Diclofenac	0.223744292237
+Rheumatoid arthritis	Etanercept	0.552666666667
+Rheumatoid arthritis	Methotrexate	0.337028824834
+Rheumatoid arthritis	Etodolac	0.255319148936
+Rheumatoid arthritis	Baricitinib	0.649275362319
+Rheumatoid arthritis	Tetracosactide	0.115887850467
+Rheumatoid arthritis	Denosumab	0.284962406015
+Rheumatoid arthritis	Sodium aurothiomalate	0.319672131148
+Lack of energy	Modafinil	0.000717213114754
+Lack of energy	Caffeine	0.01846875
+Lack of energy	Amantadine	0.01
+Restlessness	Trihexyphenidyl	0.0272976680384
+Restlessness	Belladonna	0.0113673805601
+Restlessness	Hydroxyzine	0.024606741573
+Restlessness	Chlorpromazine	0.0838235294118
+Trigeminal neuralgia	Methotrimeprazine	0.072625698324
+Trigeminal neuralgia	Carbamazepine	0.0598455598456
+Muscle weakness	Guanidine	0.00778816199377
+Urinary incontinence	Propiverine	0.204402515723
+Urinary incontinence	Botulinum toxin type A	0.194547707559
+Urinary incontinence	Duloxetine	0.1375
+Suicidal	Clozapine	0.0512396694215
+Tired	Caffeine	0.105625
+Tired	Bisacodyl	0.018949044586
+Tired	Amantadine	0.0065
+Tired	Dextran	0.00322033898305
+Tired	Magnesium hydroxide	0.00162412993039
+Tired	Glycerin	0.00843672456576
+Tired	Polyethylene glycol	0.00636215334421
+Tired	Pipradrol	0.00243902439024
+Tired	Propylene glycol	0.00218579234973
+Tired	Sorbitol	0.0138888888889
+Tired	Tetryzoline	0.0031746031746
+Tired	Modafinil	0.0254081632653
+Tired	Magnesium sulfate	0.00136518771331
+Tired	Pyridostigmine	0.0204641350211
+Tired	Docusate	0.0135215453195
+Tired	Lactulose	0.03720657277
+Tired	Lubiprostone	0.0010736196319
+Tired	Zinc	0.0188744588745
+Tired	Methylcellulose	0.00135869565217
+Heartburn	Rabeprazole	0.111063829787
+Heartburn	Magnesium oxide	0.0229357798165
+Heartburn	Domperidone	0.0438562091503
+Heartburn	Lansoprazole	0.113274336283
+Heartburn	Gluconolactone	0.0140845070423
+Heartburn	Esomeprazole	0.126
+Heartburn	Pantoprazole	0.13770718232
+Heartburn	Omeprazole	0.132530120482
+Heartburn	Sodium citrate	0.0402144772118
+Heartburn	Magnesium carbonate	0.0794117647059
+Heartburn	Magnesium hydroxide	0.102790697674
+Heartburn	Bismuth subsalicylate	0.05625
+Heartburn	Magaldrate	0.040404040404
+Heartburn	Glycopyrronium	0.00968152866242
+Heartburn	Sodium bicarbonate	0.057299270073
+Heartburn	Citric acid	0.0172069825436
+Heartburn	Nizatidine	0.105733944954
+Heartburn	Calcium Carbonate	0.0466666666667
+Heartburn	Famotidine	0.101119402985
+Heartburn	Ranitidine	0.119444444444
+Heartburn	Dexlansoprazole	0.257142857143
+Heartburn	Midostaurin	0.00553935860058
+Heartburn	Clidinium	0.00405679513185
+Heartburn	Chlordiazepoxide	0.011641443539
+Heartburn	Almasilate	0.5
+Heartburn	Magnesium trisilicate	0.118974358974
+Heartburn	Aluminum hydroxide	0.0545454545455
+Heartburn	Cimetidine	0.0740480961924
+Heartburn	Sucralfate	0.0457350272232
+Feeling agitated	Lorazepam	0.000141843971631
+Feeling agitated	Risperidone	0.000147783251232
+Feeling agitated	Aripiprazole	0.000171428571429
+Feeling agitated	Olanzapine	0.000179372197309
+Vertigo	Dimenhydrinate	0.167486338798
+Vertigo	Streptomycin	0.0784420289855
+Vertigo	Meclizine	0.00348258706468
+Vertigo	Betahistine	0.278846153846
+Loss of appetite	Megestrol acetate	0.0255131964809
+Fever	Colchicine	0.303135888502
+Fever	Mefenamic acid	0.344978165939
+Fever	Naltrexone	0.223021582734
+Fever	Caffeine	0.212158054711
+Fever	Sulfadiazine	0.337278106509
+Fever	Naproxen	0.241420118343
+Fever	Nalbuphine	0.228954423592
+Fever	Acetaminophen	0.167207792208
+Fever	Sulfamethoxazole	0.269333333333
+Fever	Cefixime	0.492156862745
+Fever	Ibuprofen	0.454819277108
+Fever	Fenoprofen	0.540106951872
+Fever	Choline magnesium trisalicylate	1.0
+Fever	Procaine benzylpenicillin	0.182897862233
+Fever	Hydroxychloroquine	0.257142857143
+Fever	Phenoxymethylpenicillin	0.363746958637
+Fever	Tetracycline	0.358490566038
+Fever	Oxymorphone	0.0037037037037
+Fever	Dihydrocodeine	0.264406779661
+Fever	Methoxyflurane	0.326347305389
+Fever	Buprenorphine	0.186934673367
+Fever	Minocycline	0.263408820024
+Fever	Benzyl alcohol	0.0875
+Fever	Butorphanol	0.0582089552239
+Fever	Ceftriaxone	0.322330097087
+Fever	Hydroxyprogesterone caproate	0.0393939393939
+Fever	Morphine	0.145885286783
+Fever	Levorphanol	0.00184696569921
+Fever	Zucapsaicin	0.0106707317073
+Fever	Codeine	0.214685314685
+Fever	Meclofenamic acid	0.00307692307692
+Fever	Cannabidiol	0.188259109312
+Fever	Acetylsalicylic acid	0.207692307692
+Fever	Demeclocycline	0.328525641026
+Fever	Erythromycin	0.283769633508
+Fever	Poractant alfa	0.487922705314
+Fever	Meperidine	0.0517543859649
+Fever	Yellow Fever Vaccine	1.07725321888
+Fever	Naloxone	0.161878453039
+Fever	Beractant	0.72619047619
+Fever	Tetracosactide	0.460358056266
+Fever	Tramadol	0.156078431373
+Fever	Doxycycline	0.297674418605
+Fever	Cilastatin	0.431077694236
+Fever	Hydrocodone	0.119323671498
+Fever	Oxycodone	0.156906077348
+Fever	Benzylpenicillin	0.350832266325
+Fever	Diflunisal	0.116666666667
+Fever	Ampicillin	0.405676126878
+Fever	Pentazocine	0.241581259151
+Fever	Choline salicylate	0.61975308642
+Arthritis	Triamcinolone	0.286363636364
+Arthritis	Prednisolone	0.279742765273
+Arthritis	Gabapentin enacarbil	0.00263157894737
+Arthritis	Colchicine	0.310975609756
+Arthritis	Tocilizumab	0.624369747899
+Arthritis	Methotrimeprazine	0.0653631284916
+Arthritis	Tolmetin	0.00575539568345
+Arthritis	Benzylpenicillin	0.190781049936
+Arthritis	Oxaprozin	0.625
+Arthritis	Diflunisal	0.23652173913
+Arthritis	Meloxicam	0.243137254902
+Arthritis	Infliximab	0.572072072072
+Arthritis	Indometacin	0.25340599455
+Arthritis	Piroxicam	0.238461538462
+Arthritis	Apremilast	0.57972972973
+Arthritis	Linoleic acid	0.22375
+Arthritis	Chloroquine	0.219036697248
+Arthritis	Penicillamine	0.35072815534
+Arthritis	Fenoprofen	0.151666666667
+Arthritis	Prednisone	0.414563106796
+Arthritis	Tenoxicam	0.203693181818
+Arthritis	Leflunomide	0.381100726895
+Arthritis	Ciclosporin	0.303404255319
+Arthritis	Auranofin	0.604901960784
+Arthritis	Tetracosactide	0.150245098039
+Arthritis	Flurbiprofen	0.202143950995
+Arthritis	Sodium aurothiomalate	0.372222222222
+Arthritis	Adalimumab	0.655660377358
+Arthritis	Betamethasone	0.183116883117
+Arthritis	Turpentine	0.0236
+Arthritis	Naproxen	0.34674556213
+Arthritis	Rituximab	0.529411764706
+Arthritis	Certolizumab pegol	0.666666666667
+Arthritis	Bupivacaine	0.227106227106
+Arthritis	Methyl salicylate	0.102013422819
+Arthritis	Corticotropin	0.167489711934
+Arthritis	Ceftriaxone	0.240540540541
+Arthritis	Abatacept	0.674107142857
+Arthritis	Aztreonam	0.214634146341
+Arthritis	Ranitidine	0.146896551724
+Arthritis	Trolamine	0.0220125786164
+Arthritis	Ketoprofen	0.264556962025
+Arthritis	Sulfasalazine	0.353571428571
+Arthritis	Hydrocortisone acetate	0.195365853659
+Arthritis	Tacrolimus	0.268780487805
+Arthritis	Chondroitin sulfate	0.264739884393
+Arthritis	Secukinumab	0.515976331361
+Arthritis	Sulindac	0.221800947867
+Arthritis	Camphor	0.0469945355191
+Arthritis	Acetylsalicylic acid	0.227935222672
+Arthritis	Anakinra	0.425324675325
+Arthritis	Tiaprofenic acid	0.225595238095
+Arthritis	Baricitinib	0.671309192201
+Arthritis	Hydroxychloroquine	0.419047619048
+Arthritis	Nabumetone	0.184644913628
+Arthritis	Gabapentin	0.190310077519
+Arthritis	Cortisone acetate	0.0961538461538
+Arthritis	Azathioprine	0.378680203046
+Arthritis	Meclofenamic acid	0.00344827586207
+Arthritis	Capsaicin	0.305429864253
+Arthritis	Sarilumab	0.639498432602
+Arthritis	Tofacitinib	0.616991643454
+Arthritis	Nortriptyline	0.110294117647
+Arthritis	Methylprednisolone	0.30223880597
+Arthritis	Cyclophosphamide	0.319135802469
+Arthritis	Probenecid	0.176305220884
+Arthritis	Golimumab	0.5824
+Arthritis	Cyclobenzaprine	0.0031007751938
+Arthritis	Hydrocortisone	0.208098591549
+Arthritis	Etanercept	0.753333333333
+Arthritis	Celecoxib	0.363302752294
+Arthritis	Diclofenac	0.339910313901
+Arthritis	(+)-menthol	0.0691240875912
+Arthritis	Ibuprofen	0.227409638554
+Arthritis	Methotrexate	0.49156626506
+Arthritis	Etodolac	0.250591016548
+Arthritis	Choline magnesium trisalicylate	0.5
+Arthritis	Dexamethasone	0.259217877095
+Arthritis	Denosumab	0.358394160584
+Arthritis	Ustekinumab	0.596460176991
+Fatigue	Amiloxate	0.5
+Fatigue	Polysilicone-15	1.0
+Fatigue	Avobenzone	0.0219298245614
+Fatigue	Bemotrizinol	0.571428571429
+Fatigue	Octisalate	0.75
+Fatigue	Caffeine	0.09
+Fatigue	Bisoctrizole	0.666666666667
+Fatigue	Diethylamino hydroxybenzoyl hexyl benzoate	1.0
+Fatigue	Homosalate	1.0
+Fatigue	Oxybenzone	0.0210084033613
+Fatigue	Amantadine	0.0847328244275
+Fatigue	Titanium dioxide	0.0627240143369
+Fatigue	Pipradrol	0.00242424242424
+Fatigue	Zinc	0.0325252525253
+Fatigue	Modafinil	0.139059304703
+Fatigue	Zinc oxide	0.0306595365419
+Fatigue	Octinoxate	0.020979020979
+Fatigue	Belladonna	0.0243902439024
+Fatigue	Camphor	0.0205564142195
+Fatigue	Dioxybenzone	0.75
+Fatigue	Ecamsule	0.5
+Fatigue	Benzophenone	0.5
+Fatigue	Diethyltoluamide	0.0133843212237
+Fatigue	Drometrizole trisiloxane	0.428571428571
+Fatigue	Octocrylene	0.428571428571
+Fatigue	Benzocaine	0.0423333333333
+Depressed mood	Perphenazine	0.00107270560191
+Nausea	Palonosetron	0.314487632509
+Nausea	Perphenazine	0.178657074341
+Nausea	Fosaprepitant	0.325714285714
+Nausea	Rolapitant	0.472463768116
+Nausea	Doxylamine	0.222891566265
+Nausea	Carbidopa	0.194899817851
+Nausea	Dolasetron	0.245188284519
+Nausea	Magnesium carbonate	0.131818181818
+Nausea	Fosnetupitant	1.0
+Nausea	Bismuth subsalicylate	0.273275862069
+Nausea	Metoclopramide	0.336458333333
+Nausea	Lorazepam	0.224113475177
+Nausea	Hydroxyzine	0.190329218107
+Nausea	Sodium bicarbonate	0.134306569343
+Nausea	Netupitant	0.246835443038
+Nausea	Fructose	0.115897435897
+Nausea	Mirtazapine	0.163461538462
+Nausea	Nabilone	0.218934911243
+Nausea	Droperidol	0.306818181818
+Nausea	Granisetron	0.375362318841
+Nausea	Ephedrine	0.220440881764
+Nausea	Haloperidol	0.211386138614
+Nausea	Prochlorperazine	0.419230769231
+Nausea	Almasilate	0.5
+Nausea	Dimenhydrinate	0.250819672131
+Nausea	Ondansetron	0.341726618705
+Nausea	Magnesium trisilicate	0.209498680739
+Nausea	Magnesium hydroxide	0.165197215777
+Nausea	Trimethobenzamide	0.00886917960089
+Nausea	Methotrimeprazine	0.26067961165
+Nausea	Chlorpromazine	0.225735294118
+Nausea	Dronabinol	0.0990196078431
+Nausea	Promethazine	0.232026143791
+Nausea	Aprepitant	0.402417962003
+Nausea	Scopolamine	0.259331476323
+Muscle rigidity	Baclofen	0.00491666666667
+Stiffness	(+)-menthol	0.00793650793651
+Depressive disorder	Mirtazapine	0.0534615384615
+Depressive disorder	Fluvoxamine	0.0616724738676
+Depressive disorder	Imipramine	0.0416783216783
+Depressive disorder	Selegiline	0.0353139013453
+Depressive disorder	Doxepin	0.0343207354443
+Depressive disorder	Amitriptyline	0.0297881355932
+Depressive disorder	Ziprasidone	0.0650406504065
+Depressive disorder	Chlorpromazine	0.0236029411765
+Depressive disorder	Fluoxetine	0.052466367713
+Depressive disorder	Citalopram	0.0593793103448
+Depressive disorder	Risperidone	0.0404867256637
+Depressive disorder	Maprotiline	0.0721354166667
+Depressive disorder	Venlafaxine	0.0789115646259
+Depressive disorder	Duloxetine	0.0588811188811
+Depressive disorder	Vortioxetine	0.0663003663004
+Depressive disorder	Phenelzine	0.0503681885125
+Depressive disorder	Levomilnacipran	0.00331491712707
+Depressive disorder	Vilazodone	0.00239726027397
+Depressive disorder	Desvenlafaxine	0.079435483871
+Depressive disorder	Aripiprazole	0.0456
+Depressive disorder	Moclobemide	0.0731563421829
+Depressive disorder	Olanzapine	0.0414354066986
+Depressive disorder	Bupropion	0.0488484848485
+Depressive disorder	Paroxetine	0.0633802816901
+Depressive disorder	Escitalopram	0.0896551724138
+Depressive disorder	Amoxapine	0.00158450704225
+Depressive disorder	Sertraline	0.0967741935484
+Depressive disorder	Nortriptyline	0.0428571428571
+Depressive disorder	Methotrimeprazine	0.0324022346369
+Depressive disorder	Brexpiprazole	0.0607242339833
+Depressive disorder	Quetiapine	0.0485106382979
+Depressive disorder	Modafinil	0.0344580777096
+Depressive disorder	Trazodone	0.0387068965517
+Lethargy	Modafinil	0.0141104294479
+Lethargy	Pipradrol	0.00306748466258
+Lethargy	Caffeine	0.015
+Lethargy	Amantadine	0.00833333333333
+Constipation	Sodium lauryl sulfoacetate	0.636363636364
+Constipation	Plecanatide	0.739130434783
+Constipation	Magnesium hydroxide	0.282051282051
+Constipation	Glycerin	0.38024691358
+Constipation	Tegaserod	0.166826923077
+Constipation	Naldemedine	0.200641025641
+Constipation	Bisacodyl	0.492682926829
+Constipation	Naloxegol	0.37
+Constipation	Prucalopride	0.394766780432
+Constipation	Lactulose	0.515402843602
+Constipation	Polyethylene glycol	0.274220032841
+Constipation	Lubiprostone	0.397239263804
+Constipation	Sennosides	0.156084656085
+Constipation	Pyridostigmine	0.139578947368
+Constipation	Methylnaltrexone	0.359322033898
+Constipation	Linaclotide	0.464627151052
+Constipation	Sorbitol	0.194087403599
+Constipation	Magnesium sulfate	0.104452054795
+Constipation	Methylcellulose	0.365853658537
+Constipation	Docusate	0.417533432392
+Abdominal pain	Hyoscyamine	0.0027027027027
+Parkinsonism	Hyoscyamine	0.00267857142857
+Parkinsonism	Donepezil	0.0936
+Parkinsonism	Rivastigmine	0.102803738318
+Parkinsonism	Trihexyphenidyl	0.15427769986
+Parkinsonism	Galantamine	0.117924528302
+Parkinsonism	Benzatropine	0.0928270042194
+Parkinsonism	Clozapine	0.0592105263158
+Parkinsonism	Levodopa	0.142176870748
+Parkinsonism	Procyclidine	0.162060301508
+Parkinsonism	Carbidopa	0.123956442831
+Parkinsonism	Atropine	0.0602362204724
+Parkinsonism	Diphenhydramine	0.0267484662577
+Parkinsonism	Amantadine	0.116666666667
+Dementia	Prazosin	0.100154798762
+Dementia	Perphenazine	0.128140703518
+Dementia	Asenapine	0.124202898551
+Dementia	Amitriptyline	0.143829787234
+Dementia	Ziprasidone	0.151590909091
+Dementia	Chlorpromazine	0.181617647059
+Dementia	Pipotiazine	0.20064516129
+Dementia	Brexpiprazole	0.0373595505618
+Dementia	Galantamine	0.440740740741
+Dementia	Risperidone	0.2125
+Dementia	Cariprazine	0.088
+Dementia	Iloperidone	0.0441947565543
+Dementia	Lurasidone	0.13662456946
+Dementia	Aripiprazole lauroxil	0.00519750519751
+Dementia	Donepezil	0.421428571429
+Dementia	Rivastigmine	0.52523364486
+Dementia	Memantine	0.37619047619
+Dementia	Clozapine	0.239912280702
+Dementia	Prochlorperazine	0.172277227723
+Dementia	Aripiprazole	0.234285714286
+Dementia	Loxapine	0.0824108241082
+Dementia	Olanzapine	0.200888888889
+Dementia	Zuclopenthixol	0.232360097324
+Dementia	Mirtazapine	0.203846153846
+Dementia	Flupentixol	0.200700116686
+Dementia	Haloperidol	0.207246376812
+Dementia	Thiothixene	0.00322580645161
+Dementia	Molindone	0.0677419354839
+Dementia	Nortriptyline	0.157936507937
+Dementia	Methotrimeprazine	0.143601895735
+Dementia	Quetiapine	0.242553191489
+Dementia	Thioproperazine	1.33333333333
+Dementia	Thioridazine	0.111052631579
+Dementia	Trifluoperazine	0.177985948478
+Dementia	Paliperidone	0.187155963303
+Parkinson's disease	Profenamine	1.0
+Parkinson's disease	Opicapone	0.510204081633
+Parkinson's disease	Selegiline	0.178
+Parkinson's disease	Rotigotine	0.24367816092
+Parkinson's disease	Pimavanserin	0.114227642276
+Parkinson's disease	Amantadine	0.185
+Parkinson's disease	Benserazide	0.344370860927
+Parkinson's disease	Pramipexole	0.237529691211
+Parkinson's disease	Entacapone	0.351311953353
+Parkinson's disease	Droxidopa	0.00230179028133
+Parkinson's disease	Safinamide	0.268292682927
+Parkinson's disease	Carbidopa	0.317025440313
+Parkinson's disease	Bromocriptine	0.148113207547
+Parkinson's disease	Rasagiline	0.26226993865
+Parkinson's disease	Donepezil	0.1896
+Parkinson's disease	Rivastigmine	0.191588785047
+Parkinson's disease	Levodopa	0.273509933775
+Parkinson's disease	Ropinirole	0.208971553611
+Parkinson's disease	Quetiapine	0.11329787234
+Parkinson's disease	Tolcapone	0.267139479905
+Parkinson's disease	Galantamine	0.19619047619
+Parkinson's disease	Apomorphine	0.256730769231
